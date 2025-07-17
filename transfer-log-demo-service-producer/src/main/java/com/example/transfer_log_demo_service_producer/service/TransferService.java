@@ -1,5 +1,6 @@
 package com.example.transfer_log_demo_service_producer.service;
 
+import java.beans.JavaBean;
 import java.time.Instant;
 import java.util.Random;
 import java.util.UUID;
