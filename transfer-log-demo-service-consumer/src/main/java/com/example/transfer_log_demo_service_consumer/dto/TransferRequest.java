@@ -9,4 +9,6 @@ public class TransferRequest {
     private String receiver;
     private double amount;
     private String currency;
+    private String timestamp;
+
 }
